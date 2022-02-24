@@ -28,4 +28,4 @@ const array = [65, 78, 34, 21]
 // console.log(array[5])
 
 const value = undefined
-console.log(value)
+// console.log(value)
